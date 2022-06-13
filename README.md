@@ -236,10 +236,17 @@ However, because of the nature of this project, we will work in 3 week "sprints"
 
 In order to protect students from investing their time in this project and it falling on its face, we must take this very seriously.
 As such, we must implement standards to prevent fake accounts and trolls from gaining access to internal systems.
-Before entering the te
-After a student is able to pass a basic acceptance exam, they can "interview" for their positions on a team for a month.
-Each student will have to COMMIT to a months time, and there must be some probationary system in place to prevent trolling, abuse, people not taking it seriously. If this is going to work, when someone enters a team they must commit to delivering that feature by the end of the month.
+Before being allowed to contribute, all users will be required to pass an entrance assessment. This will assess VERY basic coding skills, nothing like leetcode. Just "have you even tried" kinds of tests.
+
+After a student is able to pass a basic acceptance assessment, they can "mock interview" for their positions on a team for a sprint.
+To be clear, a student will be allowed to join whatever team they want, but this will be a chance for students to get experience in an "interview-like setting". Hard part here will be finding people who want to lead teams. (i.e: mid-senior engineers who have the time, a.k.a. unicorns)
+
+A note:
 The "interview" is not going to be a "interview" where they are accepted or fail, it will exist more like a job fair near the beginning of each month, where students can learn about the project a "mentor" is leading, and decide to work on it or not. Students will be committing to putting in the effort, when the sign up or they can be put into a "probationary" status. This is TBD, and will be discussed accordingly.
+
+Each student will have to COMMIT to a months' time, and there must be some probationary system in place to prevent trolling, abuse and people not taking it seriously. If this is going to work properly, when someone enters a team they must commit to delivering that feature by the end of the sprint. Afterward, they must participate in the ceremonies.
+
+There must be some sort of accountability in the level of committment, but only for those people who have committed to a sprint. Open contribution could also be worked out, but the real value will come with the team and collaborative activities.
 
 Each 1 month long sprint will end with the typical Agile Review/Demo, retrospective, and next sprint planning sessions.
 These ceremonies can take place over the last week of the sprint, basically making the sprint a 3 weeks of development, and one week of planning/demoing/etc.
